@@ -1,0 +1,65 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+.container{
+width:800px;
+height:800px; 
+background:yellowgreen;
+margin: 0 auto; 
+}
+.header{
+width:100%;
+height:100px; 
+background:#20f051;
+}
+.logo{
+width:25%;
+height:100px; 
+background:#25dcd7;
+float: left;
+}
+.menu{
+width:75%;
+height:100px; 
+background:#2530dc;
+float: left;
+}
+.image{
+width:100%;
+height:250px; 
+background:#d21bb1;
+}
+.slide{
+width:100%;
+height:250px; 
+background:black;
+}
+.slide1{
+width:50%;
+height:125px; 
+background:red;
+float: left;
+}
+.slide2{
+width:50%;
+height:125px; 
+background:yellow;
+float: left;
+}
+.slide3{
+width:50%;
+height:250px; 
+background:#829bdf;
+float: left;
+}
+.description{
+width:100%;
+height:100px; 
+background:#1f7b41;
+}
+.footer{
+width:100%;
+height:100px; 
+background:#5e90b5;
+}
